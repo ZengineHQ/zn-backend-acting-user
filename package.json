@@ -1,0 +1,20 @@
+{
+  "name": "@zenginehq/backend-acting-user",
+  "version": "1.0.0",
+  "description": "Helper library for getting and validating the acting user in Zengine backend plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZengineHQ/zn-backend-acting-user.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.4.0",
+    "mockery": "^2.1.0"
+  }
+}
